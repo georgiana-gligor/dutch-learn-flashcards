@@ -1,0 +1,4 @@
+.obsidian
+!.obsidian/plugins/**/data.json
+
+.DS_Store
