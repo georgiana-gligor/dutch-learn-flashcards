@@ -1,14 +1,18 @@
+
 # Why?
-Simple list of **free** resources for beginning Dutch learning.
+Simple list of **free** resources for beginning Dutch learning made by [Bart de Pau](https://www.learndutch.org), with flashcards to help repeat the words separately.
 
 Every note corresponds to a lesson, and has all new words made as flashcards ready to use.
 
-# Using it
+# Usage
 
-1. Download Obsidian.
-2. Install Spaced Repetition plugin.
-3. Open [[Index]] and start with the list of tasks laid out for you.
+1. [Setup your environment by following the prerequisites instructions](docs/Prerequisites.md).
+2. [Check the detailed usage walkthrough](docs/Usage.md).
+3. [Review wordlists using flashcards](docs/Flashcards.md), either individual lesson wordlists or entire deck.
+
+Good luck with your practice!
 
 # v1.0
-- flashcards for 1000 most common dutch words from learndutch.org
-- flashcards for Heb je zin? from learndutch.org
+- 1000 most common dutch words from learndutch.org
+	- tasklist
+	- flashcards
