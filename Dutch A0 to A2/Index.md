@@ -1,5 +1,8 @@
+---
+kanban-plugin: basic
+---
 
-# 1000 most common words
+# 1000 most common words - Lessons 01-10
 [Online index](https://www.learndutch.org/online-dutch-course/) from Bart de Pau.
 
 - [ ] [1000 common - 01 Introduce yourself](https://www.learndutch.org/lessons/introduce-yourself-in-dutch/) 
@@ -13,7 +16,7 @@
 - [ ] [1000 common - 07 how to count](https://www.learndutch.org/lessons/how-to-count-in-dutch/) 
 - [ ] [1000 common - 08 conjugation of verbs](https://www.learndutch.org/lessons/conjugation-of-verbs-in-dutch/) 
 - [ ] [1000 common - 09 adjectives](https://www.learndutch.org/lessons/adjectives-in-dutch/) 
-- [ ] [[1000 common - 10 days of the week, months and seasons]] 
+- [ ] [1000 common - 10 days of the week, months and seasons](ttps://www.learndutch.org/lessons/weekdays-months-seasons-in-dutch/) 
 - [ ] [review test lessons 06-10 VISUAL](https://www.learndutch.org/quizzes/vocabulary-exercise-review-6-10-a-visual/) 
 - [ ] [review test lessons 06-10 CONTEXT](https://www.learndutch.org/quizzes/vocabulary-exercise-review-6-10-context/) 
 
