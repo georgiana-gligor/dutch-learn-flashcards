@@ -215,8 +215,42 @@ kanban-plugin: list
 	  - [ ] [quiz 35](https://www.learndutch.org/quizzes/lesson-35/) 
 	  - [ ] [exercise 35A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-35a-visual/) 
 	  - [ ] [exercise 35D context](https://www.learndutch.org/quizzes/vocabulary-exercise-35d-context/)
+	  - [ ] [exercise 34D context](https://www.learndutch.org/quizzes/vocabulary-exercise-34d-context/)
 - [ ] [review test lessons 31-35 VISUAL](https://www.learndutch.org/quizzes/review-test-lessons-31-35-a-visual/)
 - [ ] [review test lessons 31-35 CONTEXT](https://www.learndutch.org/quizzes/review-test-lessons-31-35-d-context/)
+
+
+## 1000 most common words - Lessons 36-40
+
+- [ ] 36 celebration, Dutch holidays
+	  - [ ] [video](https://www.learndutch.org/lessons/celebration-dutch-holidays/) 
+	  - [ ] [quiz 36](https://www.learndutch.org/quizzes/lesson-36/) 
+	  - [ ] [exercise 36A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-36a-visual/) 
+	  - [ ] [exercise 36D context](https://www.learndutch.org/quizzes/vocabulary-exercise-36d-context/)
+- [ ] 37 animals (2)
+	  - [ ] [video](https://www.learndutch.org/lessons/pets-in-dutch-animals/) 
+	  - [ ] [quiz 37](https://www.learndutch.org/quizzes/lesson-37/) 
+	  - [ ] [exercise 37A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-37a-visual/) 
+	  - [ ] [exercise 37D context](https://www.learndutch.org/quizzes/vocabulary-exercise-37d-context/)
+- [ ] 38 adjectives (3)
+	  - [ ] [video](https://www.learndutch.org/lessons/adjectives-dutch-bijvoeglijk-naamwood/) 
+	  - [ ] [quiz 38](https://www.learndutch.org/quizzes/lesson-38/) 
+	  - [ ] [exercise 38A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-38a-visual/) 
+	  - [ ] [exercise 38D context](https://www.learndutch.org/quizzes/vocabulary-exercise-38d-context/)
+- [ ] 39 leftover words (1)
+	  - [ ] [video](https://www.learndutch.org/lessons/dutch-vocabulary-lesson-39/) 
+	  - [ ] [quiz 39](https://www.learndutch.org/quizzes/lesson-39/) 
+	  - [ ] [exercise 39A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-39a-visual/) 
+	  - [ ] [exercise 39D context](https://www.learndutch.org/quizzes/vocabulary-exercise-39d-context/)
+- [ ] 40 leftover words (2)
+	  - [ ] [video](https://www.learndutch.org/lessons/last-dutch-lesson/) 
+	  - [ ] [quiz 40](https://www.learndutch.org/quizzes/lesson-39/) 
+	  - [ ] [exercise 40A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-40a-visual/) 
+	  - [ ] [exercise 40D context](https://www.learndutch.org/quizzes/vocabulary-exercise-40d-context/)
+- [ ] [review test lessons 36-40 VISUAL](https://www.learndutch.org/quizzes/review-test-lessons-36-40-a-visual/)
+- [ ] [review test lessons 36-40 CONTEXT](https://www.learndutch.org/quizzes/review-test-lessons-36-40-d-concept/)
+- [ ] [review test lessons 36-40 VISUAL](https://www.learndutch.org/quizzes/review-test-lessons-36-40-a-visual/)
+- [ ] [EXAM](https://www.learndutch.org/lessons/exam-1000-most-common-words-in-dutch/)
 
 
 ## Heb je zin
@@ -231,6 +265,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,true,true,true]}
+{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,true,true,true,true]}
 ```
 %%
