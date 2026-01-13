@@ -157,6 +157,37 @@ kanban-plugin: list
 - [ ] [review test lessons 21-25 CONTEXT](https://www.learndutch.org/quizzes/review-test-lessons-21-25-d-context/)
 
 
+## 1000 most common words - Lessons 26-30
+- [ ] 26 going to the doctor
+	  - [ ] [video](https://www.learndutch.org/lessons/to-the-doctor-in-dutch/) 
+	  - [ ] [quiz 26](https://www.learndutch.org/quizzes/lesson-26/) 
+	  - [ ] [exercise 26A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-26a-visual/) 
+	  - [ ] [exercise 26D context](https://www.learndutch.org/quizzes/vocabulary-exercise-26d-context/)
+- [ ] 27 geography
+	  - [ ] [video](https://www.learndutch.org/lessons/dutch-geography-aardrijkskunde/) 
+	  - [ ] [quiz 27](https://www.learndutch.org/quizzes/lesson-27/) 
+	  - [ ] [exercise 27A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-27a-visual/) 
+	  - [ ] [exercise 27D context](https://www.learndutch.org/quizzes/vocabulary-exercise-27d-context/)
+- [ ] 28 moving to the Netherlands
+	  - [ ] [video](https://www.learndutch.org/lessons/moving-to-the-netherlands/) 
+	  - [ ] [quiz 28](https://www.learndutch.org/quizzes/lesson-28/) 
+	  - [ ] [exercise 28A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-28a-visual/) 
+	  - [ ] [exercise 28D context](https://www.learndutch.org/quizzes/vocabulary-exercise-28d-context/)
+- [ ] 29 moods & emotions
+	  - [ ] [video](https://www.learndutch.org/lessons/moods-and-emotions-in-dutch/) 
+	  - [ ] [quiz 29](https://www.learndutch.org/quizzes/lesson-29/) 
+	  - [ ] [exercise 29A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-29a-visual/) 
+	  - [ ] [exercise 29D context](https://www.learndutch.org/quizzes/vocabulary-exercise-29d-context/)
+- [ ] 30 preparing meals
+	  - [ ] [video](https://www.learndutch.org/lessons/preparing-meals-in-dutch/) 
+	  - [ ] [quiz 29](https://www.learndutch.org/quizzes/lesson-29/) 
+	  - [ ] [exercise 29A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-29a-visual/) 
+	  - [ ] [exercise 29D context](https://www.learndutch.org/quizzes/vocabulary-exercise-29d-context/)
+
+- [ ] [review test lessons 26-30 VISUAL](https://www.learndutch.org/quizzes/review-test-lessons-26-30-a-visual/)
+- [ ] [review test lessons 26-30 CONTEXT](https://www.learndutch.org/quizzes/review-test-lessons-26-30-d-context/)
+
+
 ## Heb je zin
 
 - [ ] [[Heb je zin - 01 Introducing yourself]]
@@ -169,6 +200,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,true]}
+{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,false,true]}
 ```
 %%
