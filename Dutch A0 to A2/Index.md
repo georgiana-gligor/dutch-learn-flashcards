@@ -158,6 +158,7 @@ kanban-plugin: list
 
 
 ## 1000 most common words - Lessons 26-30
+
 - [ ] 26 going to the doctor
 	  - [ ] [video](https://www.learndutch.org/lessons/to-the-doctor-in-dutch/) 
 	  - [ ] [quiz 26](https://www.learndutch.org/quizzes/lesson-26/) 
@@ -183,9 +184,39 @@ kanban-plugin: list
 	  - [ ] [quiz 29](https://www.learndutch.org/quizzes/lesson-29/) 
 	  - [ ] [exercise 29A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-29a-visual/) 
 	  - [ ] [exercise 29D context](https://www.learndutch.org/quizzes/vocabulary-exercise-29d-context/)
-
 - [ ] [review test lessons 26-30 VISUAL](https://www.learndutch.org/quizzes/review-test-lessons-26-30-a-visual/)
 - [ ] [review test lessons 26-30 CONTEXT](https://www.learndutch.org/quizzes/review-test-lessons-26-30-d-context/)
+
+
+## 1000 most common words - Lessons 31-35
+
+- [ ] 31 fruits & vegetables
+	  - [ ] [video](https://www.learndutch.org/lessons/fruits-and-vegetables-in-dutch/) 
+	  - [ ] [quiz 31](https://www.learndutch.org/quizzes/lesson-31/) 
+	  - [ ] [exercise 31A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-31a-visual/) 
+	  - [ ] [exercise 31D context](https://www.learndutch.org/quizzes/vocabulary-exercise-31d-context/)
+- [ ] 32 verbs (4)
+	  - [ ] [video](https://www.learndutch.org/lessons/dutch-verbs-werkwoorden/) 
+	  - [ ] [quiz 32](https://www.learndutch.org/quizzes/lesson-32/) 
+	  - [ ] [exercise 32A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-32a-visual/) 
+	  - [ ] [exercise 32D context](https://www.learndutch.org/quizzes/vocabulary-exercise-32d-context/)
+- [ ] 33 tools & materials
+	  - [ ] [video](https://www.learndutch.org/lessons/dutch-words-tools-materials/) 
+	  - [ ] [quiz 33](https://www.learndutch.org/quizzes/lesson-33/) 
+	  - [ ] [exercise 33A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-33a-visual/) 
+	  - [ ] [exercise 33D context](https://www.learndutch.org/quizzes/vocabulary-exercise-33d-context/)
+- [ ] 34 adverbs
+	  - [ ] [video](https://www.learndutch.org/lessons/adverbs-in-dutch/) 
+	  - [ ] [quiz 34](https://www.learndutch.org/quizzes/lesson-34/) 
+	  - [ ] [exercise 34A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-34a-visual/) 
+	  - [ ] [exercise 34D context](https://www.learndutch.org/quizzes/vocabulary-exercise-34d-context/)
+- [ ] 35 colours
+	  - [ ] [video](https://www.learndutch.org/lessons/colours-in-dutch/) 
+	  - [ ] [quiz 35](https://www.learndutch.org/quizzes/lesson-35/) 
+	  - [ ] [exercise 35A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-35a-visual/) 
+	  - [ ] [exercise 35D context](https://www.learndutch.org/quizzes/vocabulary-exercise-35d-context/)
+- [ ] [review test lessons 31-35 VISUAL](https://www.learndutch.org/quizzes/review-test-lessons-31-35-a-visual/)
+- [ ] [review test lessons 31-35 CONTEXT](https://www.learndutch.org/quizzes/review-test-lessons-31-35-d-context/)
 
 
 ## Heb je zin
@@ -200,6 +231,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,false,true]}
+{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,true,true,true]}
 ```
 %%
