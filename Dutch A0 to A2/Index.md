@@ -253,14 +253,6 @@ kanban-plugin: list
 - [ ] [EXAM](https://www.learndutch.org/lessons/exam-1000-most-common-words-in-dutch/)
 
 
-## Heb je zin
-
-- [ ] [[Heb je zin - 01 Introducing yourself]]
-- [ ] [[Heb je zin - 02 Countries and languages]]
-- [ ] [[Heb je zin - 03 Amsterdam]]
-- [ ] [[Heb je zin - 04 Boat trip|Heb je zin - 04 Boat trip]]
-
-
 
 
 %% kanban:settings
