@@ -102,33 +102,59 @@ kanban-plugin: list
 	  - [ ] [quiz 16](https://www.learndutch.org/quizzes/lesson-16/) 
 	  - [ ] [exercise 16A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-16a-visual/) 
 	  - [ ] [exercise 16D context](https://www.learndutch.org/quizzes/vocabulary-exercise-16d-context/)
-
 - [ ] 17 clothes
 	  - [ ] [video](https://www.learndutch.org/lessons/clothes-in-dutch/) 
 	  - [ ] [quiz 17](https://www.learndutch.org/quizzes/lesson-17/) 
 	  - [ ] [exercise 17A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-17a-visual/) 
 	  - [ ] [exercise 17D context](https://www.learndutch.org/quizzes/vocabulary-exercise-17d-context/)
-
 - [ ] 18 verbs (2)
 	  - [ ] [video](https://www.learndutch.org/lessons/dutch-verbs/) 
 	  - [ ] [quiz 18](https://www.learndutch.org/quizzes/lesson-18/) 
 	  - [ ] [exercise 18A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-18a-visual/) 
 	  - [ ] [exercise 18D context](https://www.learndutch.org/quizzes/vocabulary-exercise-18d-context/)
-
 - [ ] 19 job interview
 	  - [ ] [video](https://www.learndutch.org/lessons/job-interview-in-dutch/) 
 	  - [ ] [quiz 19](https://www.learndutch.org/quizzes/lesson-19/) 
 	  - [ ] [exercise 19A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-19a-visual/) 
 	  - [ ] [exercise 19D context](https://www.learndutch.org/quizzes/vocabulary-exercise-19d-context/)
-
 - [ ] 20 family
 	  - [ ] [video](https://www.learndutch.org/lessons/family-relatives-in-dutch/) 
 	  - [ ] [quiz 20](https://www.learndutch.org/quizzes/lesson-20/) 
 	  - [ ] [exercise 20A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-20a-visual/) 
 	  - [ ] [exercise 20D context](https://www.learndutch.org/quizzes/vocabulary-exercise-20d-context/)
-
 - [ ] [review test lessons 16-20 VISUAL](https://www.learndutch.org/quizzes/vocabulary-exercise-review-16-20-a-visual/)
 - [ ] [review test lessons 16-20 CONTEXT](https://www.learndutch.org/quizzes/vocabulary-exercise-review-16-20-d-context/)
+
+
+## 1000 most common words - Lessons 21-25
+
+- [ ] 21 animals
+	  - [ ] [video](https://www.learndutch.org/lessons/animals-in-dutch/) 
+	  - [ ] [quiz 21](https://www.learndutch.org/quizzes/lesson-21/) 
+	  - [ ] [exercise 21A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-21a-visual/) 
+	  - [ ] [exercise 21D context](https://www.learndutch.org/quizzes/vocabulary-exercise-21d-context/)
+- [ ] 22 football
+	  - [ ] [video](https://www.learndutch.org/lessons/dutch-football-vocabulary/) 
+	  - [ ] [quiz 22](https://www.learndutch.org/quizzes/lesson-22/) 
+	  - [ ] [exercise 22A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-22a-visual/) 
+	  - [ ] [exercise 22D context](https://www.learndutch.org/quizzes/vocabulary-exercise-22d-context/)
+- [ ] 23 verbs (3)
+	  - [ ] [video](https://www.learndutch.org/lessons/verbs-in-dutch/) 
+	  - [ ] [quiz 23](https://www.learndutch.org/quizzes/lesson-23/) 
+	  - [ ] [exercise 23A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-23a-visual/) 
+	  - [ ] [exercise 23D context](https://www.learndutch.org/quizzes/vocabulary-exercise-23d-context/)
+- [ ] 24 the weather
+	  - [ ] [video](https://www.learndutch.org/lessons/the-weather-in-dutch/) 
+	  - [ ] [quiz 24](https://www.learndutch.org/quizzes/lesson-24/) 
+	  - [ ] [exercise 24A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-24a-visual/) 
+	  - [ ] [exercise 24D context](https://www.learndutch.org/quizzes/vocabulary-exercise-24d-context/)
+- [ ] 25 adjectives (2)
+	  - [ ] [video](https://www.learndutch.org/lessons/dutch-adjectives/) 
+	  - [ ] [quiz 25](https://www.learndutch.org/quizzes/lesson-25/) 
+	  - [ ] [exercise 25A visual](https://www.learndutch.org/quizzes/vocabulary-exercise-25a-visual/) 
+	  - [ ] [exercise 25D context](https://www.learndutch.org/quizzes/vocabulary-exercise-25d-context/)
+- [ ] [review test lessons 21-25 VISUAL](https://www.learndutch.org/quizzes/review-test-lessons-21-25-a-visual/)
+- [ ] [review test lessons 21-25 CONTEXT](https://www.learndutch.org/quizzes/review-test-lessons-21-25-d-context/)
 
 
 ## Heb je zin
@@ -143,6 +169,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[true,true,true,false,true]}
+{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,true]}
 ```
 %%
