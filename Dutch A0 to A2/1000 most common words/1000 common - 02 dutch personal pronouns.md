@@ -1,7 +1,7 @@
 ---
 url: https://www.learndutch.org/lessons/dutch-personal-pronouns/
 tags:
-  - flashcards/1000common/02
+  - flashcards/1000common/01-05/02
   - learn
 status: new
 ---

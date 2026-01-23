@@ -1,7 +1,7 @@
 ---
 url: https://www.learndutch.org/lessons/introduce-yourself-in-dutch/
 tags:
-  - flashcards/1000common/01
+  - flashcards/1000common/01-05/01
   - learn
 status: new
 ---

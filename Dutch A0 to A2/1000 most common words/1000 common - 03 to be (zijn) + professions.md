@@ -1,7 +1,7 @@
 ---
 url: https://www.learndutch.org/online-dutch-course/lessons/verb-to-be-dutch-professions/
 tags:
-  - flashcards/1000common/03
+  - flashcards/1000common/01-05/03
   - learn
 status: new
 ---

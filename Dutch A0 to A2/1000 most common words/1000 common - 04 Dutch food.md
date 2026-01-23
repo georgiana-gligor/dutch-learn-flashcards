@@ -1,7 +1,7 @@
 ---
 url: https://www.learndutch.org/lessons/dutch-food/
 tags:
-  - flashcards/1000common/04
+  - flashcards/1000common/01-05/04
   - learn
 status: new
 ---
@@ -39,4 +39,4 @@ Lesson 4 of the course “1000 most common words in Dutch” is about food. The 
 (NL) de, het snoep:::(EN) the sweets 
 (NL) boerenkool:::(EN) kale 
 (NL) boerenkool met worst:::(EN) kale with sausage 
-(NL) de aardappeleter:::(EN) the potato-eater 
+(NL) de aardappeleter:::(EN) the potato-eater
