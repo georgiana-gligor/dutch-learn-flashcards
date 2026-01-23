@@ -1,7 +1,7 @@
 ---
 url: https://www.learndutch.org/lessons/conjugation-of-verbs-in-dutch/
 tags:
-  - flashcards/1000common/08
+  - flashcards/1000common/06-10/08
   - learn
 status: new
 ---

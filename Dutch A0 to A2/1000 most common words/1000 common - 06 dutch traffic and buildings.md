@@ -1,7 +1,7 @@
 ---
 url: https://www.learndutch.org/lessons/dutch-traffic-buildings/
 tags:
-  - flashcards/1000common/06
+  - flashcards/1000common/06-10/06
   - learn
 status: new
 ---
@@ -52,3 +52,32 @@ Video lesson 6 is about traffic and buildings in Dutch. More in detail: vocabula
 (NL) de bibliotheek:::(EN) the library
 (NL) de universiteit:::(EN) the university
 (NL) de school:::(EN) the school
+
+
+De auto rijdt 130 km/uur op ==de snelweg==.
+
+De boot is in ==de haven==.
+
+De dokter werkt in ==het ziekenhuis==.
+
+Het vliegtuig is op ==het vliegveld==.
+
+De tram stopt bij ==de halte==.
+
+De leraar werkt in ==de school==.
+
+De tram, de trein, de metro en de bus zijn ==openbaar vervoer==.
+
+De agent werkt in ==het politiebureau==.
+
+De trein rijdt naar ==het station==.
+
+Een supermarkt is ==een winkel==.
+
+Bij de sporthal is ==een zwembad==.
+
+In het ziekenhuis is ==een apotheek==.
+
+De verkoper werkt in ==de winkel==.
+
+In Amsterdam en Rotterdam is ==een metro==. In Utrecht niet.

@@ -1,7 +1,7 @@
 ---
 url: https://www.learndutch.org/lessons/weekdays-months-seasons-in-dutch/
 tags:
-  - flashcards/1000common/10
+  - flashcards/1000common/06-10/10
   - learn
 status: new
 ---

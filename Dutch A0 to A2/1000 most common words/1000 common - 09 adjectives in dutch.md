@@ -1,7 +1,7 @@
 ---
 url: https://www.learndutch.org/lessons/adjectives-in-dutch/
 tags:
-  - flashcards/1000common/09
+  - flashcards/1000common/06-10/09
   - learn
 status: new
 ---
