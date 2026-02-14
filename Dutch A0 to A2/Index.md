@@ -253,10 +253,17 @@ kanban-plugin: list
 - [ ] [EXAM](https://www.learndutch.org/lessons/exam-1000-most-common-words-in-dutch/)
 
 
+## Start to Dutch NT2 - Speed Course
+
+- [ ] Wie ben jij?
+	- [ ] [video](https://youtu.be/wdtzInf5Its?si=lxRuuiDyLcs-20sZ)
+	- [ ] [[Speed Course - 01 Wie ben jij?]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,true,true,true,true]}
+{"kanban-plugin":"list","list-collapse":[true,true,true,true,true,true,true,true,true,true]}
 ```
 %%
