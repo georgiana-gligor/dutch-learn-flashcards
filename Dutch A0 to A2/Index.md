@@ -255,9 +255,12 @@ kanban-plugin: list
 
 ## Start to Dutch NT2 - Speed Course
 
-- [ ] Wie ben jij?
+- [ ] 01 Wie ben jij?
 	- [ ] [video](https://youtu.be/wdtzInf5Its?si=lxRuuiDyLcs-20sZ)
 	- [ ] [[Speed Course - 01 Wie ben jij?]]
+- [ ] 02 Stad, vervoer, gezin. Hebben, zijn.
+  - [ ] [video](https://youtu.be/Da9CVO2kHVM?si=pdV6aZnResOzkc-p) 
+  - [ ] [[Speed Course - 02 Dit ben ik]] 
 
 
 
